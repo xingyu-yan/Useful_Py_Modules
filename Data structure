@@ -1,0 +1,8 @@
+a = list() 
+[]
+b = dict()
+{}
+c = set()
+{}
+d = tuple()
+()
